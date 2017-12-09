@@ -4,10 +4,10 @@ from tweepy.streaming import StreamListener
 import json
 import tweepy
 #consumer key, consumer secret, access token, access secret.
-ckey="jhCHKQUQh53XsZTE1qDAEpT7A"
-csecret="ZsrVH2oVxhVHJd7CHTXvBHOV9TSjDyWrG0S9KN8W8FTRLFCFFs"
-atoken="4826492292-PjuzIpowGQYRfEopeUnWfdXr6xZizULPSSi4NBb"
-asecret="9UsyHvA6QlrhZSvYVqXljwmuWvyPXnIGr4Zl3XnONOlk3"
+ckey="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+csecret="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+atoken="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+asecret="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 f=open('gagloc.txt','w')
 ##
 class listener(StreamListener):
