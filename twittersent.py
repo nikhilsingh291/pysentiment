@@ -8,10 +8,10 @@ class TwitterClient(object):
     def __init__(self):
        
         # keys and tokens from the Twitter Dev Console
-        ckey="jhCHKQUQh53XsZTE1qDAEpT7A"
-        csecret="ZsrVH2oVxhVHJd7CHTXvBHOV9TSjDyWrG0S9KN8W8FTRLFCFFs"
-        atoken="4826492292-PjuzIpowGQYRfEopeUnWfdXr6xZizULPSSi4NBb"
-        asecret="9UsyHvA6QlrhZSvYVqXljwmuWvyPXnIGr4Zl3XnONOlk3"
+        ckey="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        csecret="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        atoken="4xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        asecret="xxxxxxxxxxxxxxxxxxxxxxxxxxx"
  
         # attempt authentication
         try:
